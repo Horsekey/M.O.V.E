@@ -1,4 +1,4 @@
-+++
+---
 title = "Maryville's Operationally Vulnerable Entity"
 date = "2023-05-16"
 description = "This project is meant to be a full service lab and mock client for use in Maryville's ISYS 490 practical cybersecurity course. Portions of this entity are from [kcycyber.org](https://kc7cyber.org). Documentation for setup will be broken down by the services that the students will provide to the fake client (MOLK dairy company)"
@@ -9,7 +9,7 @@ tags = [
     "open-source intelligence",
     "log analysis",
     "kc7"]
-+++
+---
 
 ## Vulnerability Scanning
 
