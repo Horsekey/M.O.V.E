@@ -63,7 +63,7 @@ Deliverable: Produce a threat model and report from the information you were abl
 1. research openvpn server
 2. install openvpn server on raspberry pi
 	1. https://www.youtube.com/watch?v=kLmbgJe1rEU
-		1. Duck DNS
+		1. Duck DNS <DONE>
 			1. https://www.youtube.com/watch?v=s-66gmIHoyE
 3. install proxmox on leftover computer in CFC
 4. Student uses ovpn file to authenticate
